@@ -124,8 +124,18 @@ The cleaned data was analyzed and visualized using bar charts, grouped bar chart
 - Incorporate additional features such as lead time, deposit type, and special requests into a deeper cancellation-driver analysis.
 - Perform a cost-benefit analysis of the suggested pricing and discount strategies.
 
-## Author & Contact
+## Author
 
-**Author:** Vishal
-**Role:** Data Analyst (Aspiring)
-**Contact:** Add your email / LinkedIn / GitHub profile link here
+### Vishal Parmar
+
+Data Analyst | SQL | Python | PostgreSQL
+
+**LinkedIn:**
+https://www.linkedin.com/in/vishalp01
+
+**Email:**
+[vishalp4607@gmail.com](mailto:vishalp4607@gmail.com)
+
+---
+
+⭐ If you found this project interesting, feel free to star the repository.
